@@ -1,26 +1,26 @@
-☄️🚀 **Space Maneuver** 🚀☄️
+#☄️🚀 **Space Maneuver** 🚀☄️
 
-A small spaceship destroying asteroids/comets coming its way with a laser beam that matches the asteroids/comets color
+### A small spaceship destroying asteroids/comets coming its way with a laser beam that matches the asteroids/comets color
 
-_Installation_:
+## _Installation_:
 
-Download bin/Release/SpaceManeuver.exe and enjoy
+### Download bin/Release/SpaceManeuver.exe and enjoy
 
-_Key Binds_:
+## _Key Binds_:
 
-Movement of spaceship: Mouse
+### Movement of spaceship: Mouse
 
-Changing laser beam color: Space
+### Changing laser beam color: Space
 
-Restart game: f1
+### Restart game: f1
 
-Exit game: ESC
+### Exit game: ESC
 
-_Video_:
+## _Video_:
 
 https://github.com/Bishoylabib/SpaceManeuver/assets/65047880/490afb5c-cccb-436c-a113-52f53796a2e9
 
-_Screenshots_:
+## _Screenshots_:
 
 ![image](https://github.com/Bishoylabib/SpaceManeuver/assets/65047880/35e2bd38-2599-4280-8ed1-64fe0257e53e)
 
