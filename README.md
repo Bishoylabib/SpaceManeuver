@@ -1,6 +1,4 @@
-☄️🚀 
-# **Space Maneuver** 
-🚀☄️
+# **Space Maneuver** 🚀☄️
 
 #### A small spaceship destroying asteroids/comets coming its way with a laser beam that matches the asteroids/comets color
 
