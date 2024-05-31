@@ -18,7 +18,7 @@ Exit game: ESC
 
 ## _Video_ :
 
-https://github.com/Bishoylabib/SpaceManeuver/assets/65047880/490afb5c-cccb-436c-a113-52f53796a2e9
+To watch a demonstration to the game ![Click here](https://github.com/Bishoylabib/SpaceManeuver/assets/65047880/490afb5c-cccb-436c-a113-52f53796a2e9)
 
 ## _Screenshots_ :
 
