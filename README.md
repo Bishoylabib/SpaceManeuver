@@ -2,6 +2,13 @@
 
 A small spaceship destroying asteroids/comets coming its way with a laser beam that matches the asteroids/comets color
 
+## _Table of Contents_
+
+- [Installation](#installation)
+- [Key Binds](#key-binds)
+- [Video](#video)
+- [Screenshots](#screenshots)
+
 ## _Installation_ :
 
 Download bin/Release/SpaceManeuver.exe and enjoy
